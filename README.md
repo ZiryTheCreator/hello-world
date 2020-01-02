@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This was the first repository of ZiryTheCreator
